@@ -20,4 +20,4 @@ Downloaded dataset from this site: https://www.kaggle.com/nsharan/h-1b-visa
 
 ** Files: 
 •	Coursework1_DP.ipynb: Python script with codes and graph for data analysis
-•	CourseWork-2: Python script with the implementation of different classification models on the available data and its evaluation
+•	CourseWork-2.ipynb: Python script with the implementation of different classification models on the available data and its evaluation
